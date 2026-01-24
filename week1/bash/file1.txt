@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 2 sahil-prasad sahil-prasad 4096 Dec 28 01:02 .
+drwxr-xr-x 3 sahil-prasad sahil-prasad 4096 Dec 28 00:50 ..
+-rw-rw-r-- 1 sahil-prasad sahil-prasad    0 Dec 28 01:02 file1.txt
+-rwxrwxr-x 1 sahil-prasad sahil-prasad   38 Dec 28 01:02 haru.sh
